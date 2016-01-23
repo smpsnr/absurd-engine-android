@@ -1,0 +1,8 @@
+syntax: glob
+bin
+gen
+libs
+.project
+.settings/org.eclipse.jdt.core.prefs
+default.properties
+proguard-project.txt
